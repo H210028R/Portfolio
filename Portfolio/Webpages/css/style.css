@@ -39,6 +39,9 @@ nav{
     letter-spacing: 1px;
 }
 span{
+    color: #036e03;
+}
+#LIO{
     font-family: myFont;
     color: #036e03;
 }
@@ -82,12 +85,12 @@ h1{
     font-size: 75px;
 }
 h3{
-    color: wheat;
+    color: #d5f5d5;
     font-size: 25px;
     margin-bottom: 20px;
 }
 h4{
-    color: wheat;
+    color: #d5f5d5;
     letter-spacing: 2px;
     font-size: 20px;
 }
@@ -116,4 +119,45 @@ h4{
     box-shadow: 0px 0px 5px darkgray;
     top: 6px;
     right: 6px;
+}
+
+.about{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #191919;
+}
+.about img{
+    height: auto;
+    width: 430px;
+}
+.about-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-text h2{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.about-text h5{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform:capitalize;
+}
+.about-text p{
+    color: #d5f5d5;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
 }
