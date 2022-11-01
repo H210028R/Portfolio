@@ -55,7 +55,7 @@ nav ul li{
     padding: 10px 25px;
 }
 nav ul li a{
-    color: white;
+    color: black;
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
@@ -88,15 +88,10 @@ h1{
     margin: 20px 0px;
     font-size: 75px;
 }
-h3{
-    color: #d5f5d5;
-    font-size: 25px;
-    margin-bottom: 20px;
-}
 h4{
     color: #d5f5d5;
     letter-spacing: 2px;
-    font-size: 20px;
+    font-size: 30px;
 }
 .newslatter form{
     width: 380px;
